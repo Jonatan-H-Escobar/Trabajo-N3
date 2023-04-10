@@ -1,0 +1,36 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+th {
+    border: 1px solid white;
+
+}
+
+th {
+    background-color: #656769;
+    color: white;
+    width: 13em;
+    height: 2.5em;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    margin: 0;
+    width: 8em;
+    height: 2em;
+}
+
+.gray {
+    color: white;
+    background-color: #656769;
+}
+
+.light-gray {
+    background-color: #e7eaea;
+}
+
+.yellow {
+    background-color: #fbc42b;
+}

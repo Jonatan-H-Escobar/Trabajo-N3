@@ -1,0 +1,107 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 700px;
+
+
+    
+}
+
+div.exampleborderradius {
+    background-color: #eee;
+    padding: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+div.exampleborderradiusa {
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    -moz-border-radius-bottomright: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+div.exampleborderradiusb {
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    -moz-border-radius-bottomright: 50px 25px;
+    border-bottom-right-radius: 50px 25px;
+}
+
+div.exampleborderradiusc {
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    -moz-border-radius-bottomright: 25px 50px;
+    border-bottom-right-radius: 25px 50px;
+}
+
+div.exampleborderradiusd {
+    /*position: relative;
+    top: 130px;
+    right: 600px;*/
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    width: 12em;
+    height: 5em;
+    text-align: center;
+    -moz-border-radius: 1em 4em 1em 4em;
+    border-radius: 1em 4em 1em 4em;
+}
+
+div.exampleborderradiuse {
+    /*position: relative;
+    top: 130px;
+    right: 600px;*/
+    background-color: #464646;
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    -moz-border-radius: 25px 10px / 10px 25px;
+    border-radius: 25px 10px / 10px 25px;
+}
+
+div.exampleborderradiusf {
+    /*position: relative;
+    top: 130px;
+    right: 600px;*/
+    float: left;
+    background-color: #464646;
+    margin-top: 20px;
+    margin-right: 40px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+}
+
+.examplelabelborderradius {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}

@@ -1,0 +1,52 @@
+.contenedor {
+    display: block;
+    font-size: 2em;
+    text-align: center;
+
+
+}
+
+.a {
+    text-shadow: -1px -1px white, 1px 1px #333
+}
+
+.b {
+    color: aliceblue;
+    text-shadow: red 0px 0px 30px, red 1px 1px 0px;
+    ;
+}
+
+.c {
+    text-shadow: 3px 3px 5px #f00,
+        6px 6px 5px #0f0,
+        9px 9px 5px #00f;
+}
+
+.d {
+    color: #ffffff;
+    text-shadow: #666 -1px 0px 0px, #666 1px 0px 0px, #666 0px 1px 0px, #666 0px -1px 0px;
+}
+
+.type-1 {
+    background-color: #dddddd;
+}
+
+
+.e {
+    color: #707070;
+    text-shadow: #444 1px 1px 0px, #fff -1px -1px 0px;
+}
+
+.type-2 {
+    background-color: #707070;
+}
+
+.f {
+    color: #c2c2c2;
+    text-shadow: #444 -1px -1px 0px, #fff 1px 1px 0px;
+
+}
+
+.type-3 {
+    background-color: #c2c2c2;
+}

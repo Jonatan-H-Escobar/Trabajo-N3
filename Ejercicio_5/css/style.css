@@ -1,0 +1,223 @@
+body {
+  background: url(../media/image.jpg);
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+  background-position: center center;
+  background-size: cover;
+  margin: 0px;
+}
+
+
+
+p {
+  margin: 0px;
+}
+.contenedor-principal {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-attachment: fixed;
+  margin-top: 4em;
+  height: 100%;
+}
+
+.contenedor {
+
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+
+}
+
+
+
+.sub-contenedor-0 div {
+  font-weight: bold;
+  width: 615px;
+  height: 35px;
+  text-align: center;
+  padding: 0px 0px 20px 0px;
+}
+
+.sub-contenedor-1 div,
+.sub-contenedor-2 div,
+.sub-contenedor-3 div {
+  padding: 20px 10px;
+  text-align: left;
+  float: left;
+  width: 100px;
+  height: 20px;
+
+
+}
+
+.sub-contenedor-1 p,
+.sub-contenedor-2 p,
+.sub-contenedor-3 p {
+  line-height: 10px;
+}
+
+.colores-letra p,
+h2 {
+  text-align: center;
+  font-size: 23px;
+  width: 490px;
+  margin-left: 5px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 28px;
+  margin: 0px 0px 10px 0px;
+
+}
+
+/* ------------------FONDOS------------------*/
+.verde1 {
+  background-color: green;
+}
+
+.black {
+  background-color: black;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.navy {
+  background-color: navy;
+  width: 65px !important;
+}
+
+.lime {
+  background-color: lime;
+  width: 80px !important;
+}
+
+.white {
+  background-color: white;
+  width: 50px !important;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.olive {
+  background-color: olive;
+}
+
+.red1 {
+  background-color: red;
+  width: 65px !important;
+}
+
+.red2 {
+  background-color: red;
+}
+
+.marron {
+  background-color: brown;
+  width: 80px !important;
+}
+
+.gray {
+  background-color: gray;
+  width: 50px !important;
+}
+
+.olive {
+  background-color: olive;
+}
+
+.fuchsia {
+  background-color: fuchsia;
+}
+
+.green2 {
+  background-color: green;
+  width: 235px !important;
+}
+
+/* -------COLOR----DE----TEXTO-------*/
+
+.negro {
+  color: black;
+}
+
+.verde-agua {
+  color: teal;
+}
+
+.azul {
+  color: blue;
+}
+
+.azul-marino {
+  color: navy;
+}
+
+.lima {
+  color: lime;
+}
+
+.blanco {
+  color: white;
+}
+
+.purpura {
+  color: purple;
+}
+
+.amarillo {
+  color: yellow;
+}
+
+.oliva {
+  color: olive;
+}
+
+.rojo {
+  color: red;
+}
+
+.marron2 {
+  color: brown;
+}
+
+.gris {
+  color: gray;
+}
+
+.fucsia {
+  color: fuchsia;
+}
+
+.verde {
+  color: green;
+}
+
+.agua {
+  color: aqua;
+}
+
+.plata {
+  color: silver;
+}

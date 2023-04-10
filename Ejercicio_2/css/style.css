@@ -1,0 +1,13 @@
+Section{
+    margin: 10px;
+    width: 900px;
+    height: 450px;
+    border-style: dotted ;
+    background-color: darkorchid;
+    justify-content: center;        
+    align-items: center;
+    display: flex;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
